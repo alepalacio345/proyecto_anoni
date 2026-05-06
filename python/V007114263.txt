@@ -1,0 +1,85 @@
+Fecha      Referencia  Descripción                                                       Monto                      Saldo                          
+02/01/2026 00074214440 TRF CR INM 0105 V006939150 CARRILLO ESCOBAR                                       +57.800,00                      68.330,88 
+02/01/2026 03312059982 TRF.MB 0134 V007114263 LARA ROA SAUL GUI 8506                                      +1.100,00                      69.430,88 
+02/01/2026 53654147903 TRF.MB 0134 V007114263 LARA ROA SAUL GUI 8506                                     -57.800,00                      11.630,88 
+02/01/2026 53654639947 TRF.MB 0134 V007114263 LARA ROA SAUL GUI 8506                                      +8.944,29                      20.575,17 
+02/01/2026 53653022694 TRF.MB 0134 V007114263 LARA ROA SAUL GUI 8506                                     -10.000,00                      10.575,17 
+02/01/2026 53654648973 Banesco Pago Movil                                                                 -8.944,29                       1.630,88 
+02/01/2026 24077919337 Banesco Pago Movil                                                                 -1.360,00                         270,88 
+02/01/2026 24077919337 Banesco Pago Movil                                                                     -4,08                         266,80 
+05/01/2026 60054236326 PAGO MOVIL CCE                                                                       -100,00                         166,80 
+05/01/2026 60054236326 COM. PAGO MOVIL CCE                                                                    -2,00                         164,80 
+05/01/2026 00645174072 Banesco PagoMovil                                                                 +2.900,00                       3.064,80 
+05/01/2026 60053767741 Banesco Pago Movil                                                                 -1.525,00                       1.539,80 
+05/01/2026 60053767741 Banesco Pago Movil                                                                     -4,58                       1.535,22 
+05/01/2026 60031089107 Banesco Pago Movil                                                                 -6.000,00                      -4.464,78 
+05/01/2026 60031089107 Banesco Pago Movil                                                                    -18,00                      -4.482,78 
+05/01/2026 60053766331 TRF.MB 0134 V007114263 LARA ROA SAUL GUI 8506                                      +2.000,00                      -2.482,78 
+05/01/2026 60031086893 TRF.MB 0134 V007114263 LARA ROA SAUL GUI 8506                                      +6.000,00                       3.517,22 
+05/01/2026 00539760009 COMPRA POS CTA/CTE MILAGROS PEROZO                                                   -760,00                       2.757,22 
+06/01/2026 03312059982 TRF.MB 0134 V007114263 LARA ROA SAUL GUI 8506                                      +2.000,00                       4.757,22 
+06/01/2026 24108491046 Banesco Pago Movil                                                                 -4.700,00                          57,22 
+06/01/2026 24108491046 Banesco Pago Movil                                                                    -14,10                          43,12 
+08/01/2026 00080710083 TRF CR INM 0102 V021322449 Selenia Del Rosar                                     +172.500,00                     172.543,12 
+08/01/2026 60083919509 Banesco Pago Movil                                                                -11.878,20                     160.664,92 
+08/01/2026 60083919509 Banesco Pago Movil                                                                    -35,63                     160.629,29 
+09/01/2026 00912006212 COMPRA POS CTA/CTE                                                                 -3.254,00                     157.375,29 
+09/01/2026 00913009174 COMPRA POS CTA/CTE                                                                 -6.080,00                     151.295,29 
+09/01/2026 00913064753 COMPRA POS CTA/CTE                                                                -21.005,54                     130.289,75 
+09/01/2026 04760692273 Banesco Pago Movil                                                                 +2.000,00                     132.289,75 
+09/01/2026 24131356785 Banesco Pago Movil                                                                 -3.850,00                     128.439,75 
+09/01/2026 24131356785 Banesco Pago Movil                                                                    -11,55                     128.428,20 
+09/01/2026 24131374776 Banesco Pago Movil                                                                 -4.000,00                     124.428,20 
+09/01/2026 24131374776 Banesco Pago Movil                                                                    -12,00                     124.416,20 
+13/01/2026 01019030775 COMPRA POS CTA/CTE                                                                 -1.940,00                     122.476,20 
+13/01/2026 01139760048 COMPRA POS CTA/CTE MILAGROS PEROZO                                                 -1.881,00                     120.595,20 
+13/01/2026 01320120009 COMPRA POS CTA/CTE CARNICERIA FRANMARY 2                                          -44.270,00                      76.325,20 
+13/01/2026 01315000871 COMPRA POS CTA/CTE                                                                 -4.680,00                      71.645,20 
+13/01/2026 24152139175 DIGITEL PREPAGO 4127426581                                                           -160,00                      71.485,20 
+13/01/2026 60135556429 Banesco Pago Movil                                                                   -500,00                      70.985,20 
+13/01/2026 60135556429 Banesco Pago Movil                                                                     -2,00                      70.983,20 
+14/01/2026 01432940030 COMPRA POS CTA/CTE TITANIO GROUP 1 CA                                              -1.917,82                      69.065,38 
+14/01/2026 01433060039 COMPRA POS CTA/CTE TITANIO GROUP 1 CA                                              -1.312,19                      67.753,19 
+14/01/2026 40001218546 COMPRA POS CTA/CTE                                                                 -1.364,00                      66.389,19 
+14/01/2026 01420980046 COMPRA POS CTA/CTE INVERSIONES LA OPORTU                                           -6.365,00                      60.024,19 
+14/01/2026 60148512394 Banesco Pago Movil                                                                 -1.500,00                      58.524,19 
+14/01/2026 60148512394 Banesco Pago Movil                                                                     -4,50                      58.519,69 
+14/01/2026 60148793194 Banesco Pago Movil                                                                -17.634,60                      40.885,09 
+14/01/2026 60148793194 Banesco Pago Movil                                                                    -52,90                      40.832,19 
+14/01/2026 60148795297 Banesco Pago Movil                                                                 -1.700,00                      39.132,19 
+14/01/2026 60148795297 Banesco Pago Movil                                                                     -5,10                      39.127,09 
+14/01/2026 03312059982 TRF.MB 0134 V007114263 LARA ROA SAUL GUI 8506                                      +8.830,00                      47.957,09 
+14/01/2026 24174008627 Banesco Pago Movil                                                                   -660,00                      47.297,09 
+14/01/2026 24174008627 Banesco Pago Movil                                                                     -2,00                      47.295,09 
+15/01/2026 00000135153 COMPRA POS CTA/CTE                                                                 -3.462,20                      43.832,89 
+15/01/2026 01517003546 COMPRA POS CTA/CTE                                                                 -2.034,84                      41.798,05 
+15/01/2026 40001321866 COMPRA POS CTA/CTE                                                                   -560,00                      41.238,05 
+15/01/2026 00029122025 Comision Servicio SMS                                                                  -8,00                      41.230,05 
+15/01/2026 24175626930 DIGITEL PREPAGO 4124680792                                                           -320,00                      40.910,05 
+15/01/2026 60152975014 Banesco Pago Movil                                                                 -5.000,00                      35.910,05 
+15/01/2026 60152975014 Banesco Pago Movil                                                                    -15,00                      35.895,05 
+20/01/2026 60180551617 Banesco Pago Movil                                                                 -2.150,00                      33.745,05 
+20/01/2026 60180551617 Banesco Pago Movil                                                                     -6,45                      33.738,60 
+20/01/2026 60192178933 Banesco Pago Movil                                                                -10.000,00                      23.738,60 
+20/01/2026 60192178933 Banesco Pago Movil                                                                    -30,00                      23.708,60 
+20/01/2026 60178938915 TRF.MB 0134 V031113176 LARDIERI HERNANDE 8506                                     +43.000,00                      66.708,60 
+20/01/2026 60192357504 TRF.MB 0134 V007114263 LARA ROA SAUL GUI 8506                                      +4.100,00                      70.808,60 
+20/01/2026 24209844987 Banesco Pago Movil                                                                -17.500,00                      53.308,60 
+20/01/2026 24209844987 Banesco Pago Movil                                                                    -52,50                      53.256,10 
+20/01/2026 24220646084 Banesco Pago Movil                                                                   -500,00                      52.756,10 
+20/01/2026 24220646084 Banesco Pago Movil                                                                     -2,00                      52.754,10 
+20/01/2026 01948980001 COMPRA POS CTA/CTE ORLY´S JOYAS                                                    -1.300,00                      51.454,10 
+20/01/2026 01948980003 COMPRA POS CTA/CTE ORLY´S JOYAS                                                   -12.100,00                      39.354,10 
+21/01/2026 00000134628 COMPRA POS CTA/CTE                                                                 -5.160,05                      34.194,05 
+21/01/2026 02121280005 COMPRA POS CTA/CTE INVERSIONES LA OPORTU                                           -5.400,00                      28.794,05 
+21/01/2026 02139760047 COMPRA POS CTA/CTE MILAGROS PEROZO                                                 -1.225,00                      27.569,05 
+21/01/2026 60217610607 Banesco Pago Movil                                                                   -400,00                      27.169,05 
+21/01/2026 60217610607 Banesco Pago Movil                                                                     -2,00                      27.167,05 
+23/01/2026 02320980077 COMPRA POS CTA/CTE INVERSIONES LA OPORTU                                           -5.999,00                      21.168,05 
+23/01/2026 40001044055 COMPRA POS CTA/CTE                                                                 -9.808,59                      11.359,46 
+23/01/2026 60235637134 PAGO MOVIL CCE                                                                    -10.800,00                         559,46 
+23/01/2026 60235637134 COM. PAGO MOVIL CCE                                                                   -32,40                         527,06 
+23/01/2026 24247100155 DIGITEL PREPAGO 4124680792                                                           -160,00                         367,06 
+26/01/2026 60248184559 TRANS.CTAS. MISMO CLIENTE BANESCO                                                  +2.200,00                       2.567,06 
+26/01/2026 60248192150 Banesco Pago Movil                                                                 -2.200,00                         367,06 
+26/01/2026 60248192150 Com. Banesco Pago Movil                                                                -6,60                         360,46 
